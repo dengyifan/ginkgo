@@ -1,5 +1,5 @@
 // 配置API接口地址
-var baseUrl = 'https://cnodejs.org/api/v1'
+var baseUrl = '/api/v1'
 
 // 引用 axios
 var axios = require('axios')
